@@ -1,0 +1,16 @@
+{
+  "name": "fastmoney",
+  "version": "1.0.0",
+  "description": "remake of the family fued game",
+  "main": "build.js",
+  "scripts": {
+    "start": "node . && npx servez dist"
+  },
+  "keywords": ["esbuild", "svelte", "plugin"],
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.8.26",
+    "svelte": "^3.31.0",
+    "servez": "^1.12.0"
+  }
+}
