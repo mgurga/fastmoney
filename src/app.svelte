@@ -5,8 +5,9 @@
 <style>
   :global(body) {
     margin: 0;
+    height: 100%;
+    background-color: blue;
   }
 </style>
 
-<marquee loop=10>FAST MONEY</marquee>
 <FastMoney />
