@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What does Tea Cake teach Janie to do once they're in the Everglades?",
+        "answers":
+        [
+            {"answer": "cook", "points": 0},
+            {"answer": "shoot a gun", "points": 6},
+            {"answer": "make lemonade", "points": 1},
+            {"answer": "socialize with others", "points": 0}
+        ]
+    },
+    {
+        "question": "What sort of work do Tea Cake and Janie do in the Everglades?",
+        "answers":
+        [
+            {"answer": "sew clothes", "points": 0},
+            {"answer": "cashiers at a marketplace", "points": 0},
+            {"answer": "raise farm animals", "points": 1},
+            {"answer": "farm beans", "points": 6}
+        ]
+    },
+    {
+        "question": "Who says the quote, “Oh, you needs tuh learn how. 'Tain't no need uh you not known' how tuh handle shootin' tools.”",
+        "answers":
+        [
+            {"answer": "Tea Cake", "points": 6},
+            {"answer": "Jody", "points": 0},
+            {"answer": "Janie", "points": 1},
+            {"answer": "Amos Hicks", "points": 0}
+        ]
+    },
+    {
+        "question": "Where do most of the workers migrate from?",
+        "answers":
+        [
+            {"answer": "Georgia", "points": 2},
+            {"answer": "Florida", "points": 1},
+            {"answer": "Mississippi", "points": 1},
+            {"answer": "The South in general", "points": 3}
+        ]
+    },
+    {
+        "question": "How does Janie think about the people she left behind in Eatonville?",
+        "answers":
+        [
+            {"answer": "resent", "points": 2},
+            {"answer": "pities", "points": 3},
+            {"answer": "envies", "points": 1},
+            {"answer": "fears", "points": 1}
+        ]
+    },
+    {
+        "question": "What does Tea Cake call the land that he works on?",
+        "answers":
+        [
+            {"answer": "glades", "points": 2},
+            {"answer": "grounds", "points": 1},
+            {"answer": "muck", "points": 4},
+            {"answer": "patch", "points": 0}
+        ]
+    },
+    {
+        "question": "What are the main themes shown in chapter 14?",
+        "answers":
+        [
+            {"answer": "love", "points": 6},
+            {"answer": "redemption", "points": 1},
+            {"answer": "coming of age", "points": 0},
+            {"answer": "revenge", "points": 0}
+        ]
+    },
+    {
+        "question": "Where do all the workers from the muck go for fun?",
+        "answers":
+        [
+            {"answer": "Janie's store", "points": 0},
+            {"answer": "Tea Cake and Janie's house", "points": 5},
+            {"answer": "town center", "points": 2},
+            {"answer": "Jacksonville", "points": 0}
+        ]
+    },
+    {
+        "question": "While working, Tea Cake misses Janie dearly. What does he convince her to do after?",
+        "answers":
+        [
+            {"answer": "pay her", "points": 0},
+            {"answer": "talk to his friends", "points": 1},
+            {"answer": "work alongside him", "points": 6},
+            {"answer": "make lemonade", "points": 0}
+        ]
+    },
+    {
+        "question": "The argument between Ed and Gabe (near the end of chapter 14) shows the theme of ___.",
+        "answers":
+        [
+            {"answer": "nature vs nurture", "points": 1},
+            {"answer": "racism", "points": 4},
+            {"answer": "gender roles", "points": 2},
+            {"answer": "revenge", "points": 0}
+        ]
+    },
+    {
+        "question": "How is Nunkie's appearance described?",
+        "answers":
+        [
+            {"answer": "chuncky", "points": 5},
+            {"answer": "slim", "points": 1},
+            {"answer": "attractive", "points": 1},
+            {"answer": "strong", "points": 0}
+        ]
+    },
+    {
+        "question": "What does Nunkie do to get Tea Cake's attention?",
+        "answers":
+        [
+            {"answer": "bribe", "points": 1},
+            {"answer": "blackmail", "points": 0},
+            {"answer": "make food", "points": 1},
+            {"answer": "tease", "points": 5}
+        ]
+    }
+]
